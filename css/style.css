@@ -1,0 +1,12 @@
+body {
+	background: url("../images/poker-table-felt-13283464.jpg");
+	background-size: cover;
+	color: white;
+}
+
+.navbar-inverse .navbar-brand{
+	color: white;
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+}
